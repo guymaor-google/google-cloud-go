@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.5](https://github.com/googleapis/google-cloud-go/compare/auth/v0.9.4...auth/v0.9.5) (2024-09-19)
+
+
+### Bug Fixes
+
+* **auth:** Skip directpath credentials overwrite when it's not on GCE ([#10833](https://github.com/googleapis/google-cloud-go/issues/10833)) ([7e5e8d1](https://github.com/googleapis/google-cloud-go/commit/7e5e8d10b761b0a6e43e19a028528db361bc07b1))
+
 ## [0.9.4](https://github.com/googleapis/google-cloud-go/compare/auth/v0.9.3...auth/v0.9.4) (2024-09-11)
 
 
