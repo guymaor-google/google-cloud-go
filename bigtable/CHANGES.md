@@ -1,5 +1,12 @@
 # Changes
 
+## [1.33.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.32.0...bigtable/v1.33.0) (2024-09-19)
+
+
+### Features
+
+* **bigtable/admin:** Add support for Cloud Bigtable Row Affinity in App Profiles ([b9dfce5](https://github.com/googleapis/google-cloud-go/commit/b9dfce5e509d0c795e89c66b7f6a6bb356e3a172))
+
 ## [1.32.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.31.0...bigtable/v1.32.0) (2024-09-09)
 
 
