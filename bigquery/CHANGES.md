@@ -3,6 +3,13 @@
 
 
 
+## [1.63.1](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.63.0...bigquery/v1.63.1) (2024-09-19)
+
+
+### Bug Fixes
+
+* **bigquery/storage:** Increase method timeout to 240s for BigQuery Metastore Partition Service API version v1alpha ([fdb4ea9](https://github.com/googleapis/google-cloud-go/commit/fdb4ea99189657880e5f0e0dce16bef1c3aa0d2f))
+
 ## [1.63.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.62.0...bigquery/v1.63.0) (2024-09-18)
 
 
